@@ -123,7 +123,7 @@ button {
 }
 
 .image-illustration {
-    max-width: auto;
+    /* max-width: auto;
     max-height: auto;
     text-align: center;
     align-items: center;
@@ -133,7 +133,13 @@ button {
     flex-wrap: nowrap;
     background-color: #e5e7eb;
     margin: auto;
-    gap:10px;
+    gap:10px; */
+
+    text-align: center;
+    background-color: #e5e7eb;
+    padding-bottom: 30px;
+    
+
     
 }
 .img{
@@ -141,3 +147,11 @@ button {
     width: 200px;
     height: 200px;
 }
+
+.image-illustration img{
+    justify-content: space-around;
+    height: 200px;
+    width: 200px;
+
+}
+
