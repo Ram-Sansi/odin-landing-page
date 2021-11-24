@@ -148,11 +148,16 @@ button {
     height: 200px;
 }
 
-.image-illustration img{
+.image-illustration img {
     justify-content: space-around;
     padding-top: 20px;
     height: 150px;
     width: 150px;
+    
 
+}
+
+.illust1,.illust2,.illust3,.illust4{
+    flex: auto;
 }
 
