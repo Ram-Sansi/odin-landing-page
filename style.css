@@ -250,3 +250,17 @@ button {
     font-size: 20px;
     margin-bottom: 50px;
 }
+
+/* footer section starts here */
+
+.footer{
+    background-color: #1F2937;
+    color: white;
+    display: block;
+    padding: 50px;
+    align-content: center;
+    margin: auto;
+    width: 1200px;
+    text-align: center;
+
+}
