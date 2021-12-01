@@ -177,6 +177,35 @@ button {
 .image-illustration div,p{
     text-align: center;
     padding-bottom: 100px;
+    margin:auto;
+}
+
+.quote-section{
+    background-color: #e5e7eb;
+    
+    margin-top:200px;
+    /* text-align: center;
+    justify-content: center;*/
+    display: flex;
+    padding-top: 100px;
+    flex-wrap: wrap;
+}
+
+.quote-section p{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    width: 970px;
+    text-align: left;
+    justify-content: center;
+}
+
+.quote-section .author {
+    text-align: right;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 
