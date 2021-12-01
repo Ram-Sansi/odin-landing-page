@@ -106,7 +106,7 @@ button {
 
 .information{
     display: flex;
-    background-color: #e5e7eb;
+    background-color: white;
     /* justify-content:space-evenly; */
 
 }
@@ -117,12 +117,12 @@ button {
         font-size: 36px;
         font-weight: bolder;
         text-align: center;
-        padding-top: 30px;
+        padding-top: 50px;
         align-self: center;
         margin: auto;
 }
 
-.image-illustration {
+
     /* max-width: auto;
     max-height: auto;
     text-align: center;
@@ -135,29 +135,50 @@ button {
     margin: auto;
     gap:10px; */
 
-    text-align: center;
+    /* text-align: center;
     background-color: #e5e7eb;
     padding-bottom: 30px;
-    
+     */
 
     
-}
-.img{
+
+/* .img{
     flex: 0;
     width: 200px;
     height: 200px;
-}
+} */
 
-.image-illustration img {
-    justify-content: space-around;
-    padding-top: 20px;
+.image-illustration {
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
     height: 150px;
     width: 150px;
+    display: flex;
+    margin: auto;
+    /* flex-shrink:auto; */
+  
+
+}
+.image-illustration img{
+    height: 200px;
+    width: 200px;
+   
+    border-radius: 35px;
+    border: 5px solid #3882f6;
     
 
 }
 
-.illust1,.illust2,.illust3,.illust4{
-    flex: auto;
+.image-illustration div{
+    padding: 15px;
 }
+
+.image-illustration div,p{
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+
+
 
