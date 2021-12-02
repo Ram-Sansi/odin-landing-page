@@ -40,7 +40,7 @@ a {
      
 }
 
-/* hero content starts here*/
+    /* hero content starts here*/
 
 .hero {
     background: #1F2937;
@@ -122,31 +122,6 @@ button {
         margin: auto;
 }
 
-
-    /* max-width: auto;
-    max-height: auto;
-    text-align: center;
-    align-items: center;
-    padding-top: 30px;
-    align-self: center;
-    justify-content: space-around;
-    flex-wrap: nowrap;
-    background-color: #e5e7eb;
-    margin: auto;
-    gap:10px; */
-
-    /* text-align: center;
-    background-color: #e5e7eb;
-    padding-bottom: 30px;
-     */
-
-    
-
-/* .img{
-    flex: 0;
-    width: 200px;
-    height: 200px;
-} */
 
 .image-illustration {
     justify-content: center;
